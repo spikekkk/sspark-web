@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_time@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0_会员_会员查询" transform="translate(-492.000000, -176.000000)" fill-rule="nonzero">
+            <g id="内容" transform="translate(160.000000, 156.000000)">
+                <g id="会员信息" transform="translate(10.000000, 20.000000)">
+                    <g id="注册时间">
+                        <g transform="translate(322.000000, 0.000000)">
+                            <g id="icon_time">
+                                <circle id="Oval" fill-opacity="0.2" fill="#4887E6" cx="10" cy="10" r="9.09090909"></circle>
+                                <polyline id="Rectangle-25" stroke="#5D9CEC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="15.4545455 10.9090909 10 10.9090909 10 4.54545455"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

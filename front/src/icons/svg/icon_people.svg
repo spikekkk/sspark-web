@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_people copy@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0_会员_会员查询" transform="translate(-1701.000000, -9.000000)" fill="#A8B5BC" fill-rule="nonzero">
+            <g id="导航">
+                <g id="收银员" transform="translate(1701.000000, 9.000000)">
+                    <g id="工作人员">
+                        <ellipse id="Oval-2" stroke="#A8B5BC" cx="10.5" cy="7.29411765" rx="3.25" ry="3.29411765"></ellipse>
+                        <path d="M16.9987851,17.5882353 C16.9987851,14.0041886 14.088908,11.0987447 10.4993926,11.0987447 C6.90987717,11.0987447 4,14.0041886 4,17.5882353" id="Oval-2-Copy"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>edit@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0_会员_会员查询" transform="translate(-722.000000, -178.000000)" fill-rule="nonzero" stroke="#4887E6">
+            <g id="内容" transform="translate(160.000000, 156.000000)">
+                <g id="会员信息" transform="translate(10.000000, 20.000000)">
+                    <g id="搜索-copy-2">
+                        <g transform="translate(552.000000, 2.000000)">
+                            <g id="放大镜">
+                                <g id="Group-5">
+                                    <g id="Group-14" transform="translate(1.000000, 2.000000)">
+                                        <path d="M5.52268015,10.1896283 L6.39654409,9.05181285 C6.46363213,8.9644608 6.5,8.8574011 6.5,8.74725943 L6.5,1 C6.5,0.723857625 6.27614237,0.5 6,0.5 L5,0.5 C4.72385763,0.5 4.5,0.723857625 4.5,1 L4.5,8.73611974 C4.5,8.8496725 4.53865194,8.95984323 4.60959659,9.04850601 L5.52268015,10.1896283 Z" id="Rectangle-5" transform="translate(5.500000, 5.500000) rotate(-315.000000) translate(-5.500000, -5.500000) "></path>
+                                        <path d="M2,11 L11,11" id="Path-2" stroke-linecap="round"></path>
+                                        <path d="M3,6 L5,8" id="Path-4"></path>
+                                        <path d="M7,2 L9,4" id="Path-4-Copy"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

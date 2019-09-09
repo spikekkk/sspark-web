@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "sspark-web",
+    "script": "development.js",
+    "cwd": "/home/saas/eden/sspark-web",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+
+    }
+  }]
+}

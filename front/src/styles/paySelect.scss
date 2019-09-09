@@ -1,0 +1,192 @@
+.pay_select /deep/ {
+  .v-modal {
+    opacity: 0.7;
+  }
+
+  .el-checkbox__label {
+    width: 100px;
+  }
+  .el-dialog {
+    border-radius: 5px;
+    .el-dialog__header {
+      padding: 16px 20px;
+      border-radius: 4px 4px 0 0;
+      background: #2d3d4c;
+      .el-dialog__title {
+        font-size: 16px;
+        line-height: 14px;
+        color: #fff;
+      }
+      .el-dialog__headerbtn {
+        top: 16px;
+        .el-dialog__close {
+          color: #fff;
+        }
+      }
+    }
+    .el-dialog__body {
+      overflow: auto;
+      padding: 20px 20px 10px;
+      .pay_all {
+        .pay_all_title {
+          text-align: center;
+          color: #333;
+          font-size: 16px;
+          line-height: 20px;
+          font-weight: 500;
+          margin-bottom: 20px;
+        }
+        .pay_money {
+          color: #333;
+          font-size: 19px;
+          line-height: 20px;
+          font-weight: 600;
+          text-align: center;
+          span {
+            font-size: 34px;
+            font-weight: bold;
+            margin-left: 11px;
+          }
+        }
+        .pay_type {
+          margin-top: 40px;
+          .pay_type_item {
+            margin-bottom: 30px;
+            cursor: pointer;
+            img {
+              float: left;
+            }
+            .pay_type_text {
+              color: #333;
+              font-size: 16px;
+              line-height: 30px;
+              font-weight: 500;
+              margin-left: 21px;
+              display: inline-block;
+            }
+            .pay_type_select {
+              float: right;
+              width: 22px;
+              height: 22px;
+              border: 2px solid #cccccc;
+              border-radius: 50%;
+              margin-top: 4px;
+              cursor: pointer;
+              padding-left: 3px;
+            }
+            .classBg {
+              float: right;
+              width: 22px;
+              height: 22px;
+              border: 2px solid #5d9cec;
+              background: #5d9cec;
+              border-radius: 50%;
+              margin-top: 3px;
+              cursor: pointer;
+              color: #fff;
+            }
+          }
+        }
+        .pay_code {
+          height: 66px;
+          width: 100%;
+          margin-bottom: 20px;
+          .pay_amount {
+            margin-bottom: 10px;
+          }
+          .pay_amount,
+          .pay_remain {
+            .el-input--mini {
+              width: 210px;
+              float: right;
+            }
+            span {
+              font-size: 14px;
+              color: #333;
+              line-height: 28px;
+            }
+          }
+        }
+      }
+      .placeholder_ota {
+        height: 65px;
+      }
+      .pay_disabled {
+        float: right;
+        width: 22px;
+        height: 22px;
+        background: #f2f2f2;
+        border: 1px solid #ddd;
+        border-radius: 50%;
+        margin-top: 4px;
+        cursor: pointer;
+        padding-left: 3px;
+      }
+    }
+  }
+  .el-dialog__footer {
+    padding: 10px 20px 20px;
+    .dialog-footer {
+      .el-button--mini {
+        border-radius: 5px;
+        padding: 7px 17px;
+      }
+      .el-button--primary {
+        background: #5d9cec;
+        border-color: #5d9cec;
+      }
+      .el-button--primary:focus,
+      .el-button--primary:hover {
+        background: #5d9cec;
+        border-color: #5d9cec;
+      }
+      .el-button--primary.is-active,
+      .el-button--primary:active {
+        background: #3a8ee6;
+        border-color: #3a8ee6;
+      }
+    }
+  }
+  .bill_select {
+    width: 237px;
+  }
+  .member_tel {
+    width: 182px;
+    margin-right: 10px;
+  }
+  .card_pay {
+    background-color: #f4f6f8;
+    width: 360px;
+    height: 219px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 11px;
+  }
+  .tr_box {
+    position: relative;
+    height: 12px;
+    overflow: hidden;
+    margin-bottom: 0;
+  }
+  .triangle {
+    border: solid 10px #f4f6f8;
+    transition: 180;
+    position: absolute;
+
+    top: 7px;
+    right: 43%;
+    transform: rotate(45deg);
+  }
+  .pay_content {
+    .el-input--mini {
+      width: 289px;
+    }
+  }
+
+  .pay_item {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    line-height: 28px;
+  }
+}
